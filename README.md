@@ -12,13 +12,9 @@ Built with **React Native (Expo)**.
 - Customer Web App: https://github.com/asad2050/flash-deliveries-web
 
 ---
-
-## Screenshots
-Coming soon...
-
 ## Demo Video
 
-Coming soon...
+▶️ [Watch Mobile App Demo](https://drive.google.com/file/d/1GkdhFGv1nWe1R6dzolZ6QeWlCNMMbwxy/view?usp=drive_link)
 
 ---
 
